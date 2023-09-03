@@ -21,7 +21,7 @@ I am a junior Software tester <img src="https://media.giphy.com/media/WUlplcMpOC
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
 <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" title="maven" alt="maven" width="50" height="40"/>
 <h3>TestNG</h3>
-<h3>Selenium webdriver</h3>
+<h3>Selenium web-driver</h3>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </p>
