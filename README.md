@@ -7,11 +7,11 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a junior Software tester <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+I am a junior Software tester <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cairo, Egypt.
 
-- 🔭 I’m open to work as a Software Tester and contributing to software testing  for test web and mobile applications.
+- 🔭 I’m open to work as a Software Tester and contributing to software testing  for test web.
 - 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems and read tech articles.
+- ⚡ I love learning more about the field.
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
